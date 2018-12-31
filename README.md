@@ -1,2 +1,8 @@
 # Loan Calculator
-Simple Loan calculator project in Javascript
+Simple loan calculator project.
+
+## Technologies
+
+- HTML
+- CSS
+- JavaScript
