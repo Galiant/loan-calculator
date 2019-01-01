@@ -5,4 +5,5 @@ Simple loan calculator project.
 
 - HTML
 - CSS
+- Bootstrap
 - JavaScript
